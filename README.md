@@ -1,4 +1,19 @@
 # Final_Project
+
+Here's a revised version:
+
+This project is a showcase from my training at the Data Science Institute, where I aimed to highlight the capabilities that arise when you combine 8 years of professional experience as an Industrial Engineer with newly acquired Data Science skills.
+
+I selected a dataset from Kaggle.com that contains process data from a specific machine. In addition to following the standard Data Science and Machine Learning pipeline, I developed a Key Performance Indicator (KPI) from the data to support further optimization. 
+
+The results were visualized using Streamlit in an initial mock-up, demonstrating the potential for creating customized dashboards. For a clearer understanding, I recommend viewing the files in the following order:
+
+1. Roasting_Machine_V2
+2. OEE_Data
+3. OEE_Dashboard + quality_prediction_app (You’re welcome to try running the code on your own server).
+
+# Project description:
+
 ## Predictive Quality - Production of roastied coffee
 
 ### About Dataset:
