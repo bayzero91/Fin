@@ -1,7 +1,5 @@
 # Final_Project
 
-Here's a revised version:
-
 This project is a showcase from my training at the Data Science Institute, where I aimed to highlight the capabilities that arise when you combine 8 years of professional experience as an Industrial Engineer with newly acquired Data Science skills.
 
 I selected a dataset from Kaggle.com that contains process data from a specific machine. In addition to following the standard Data Science and Machine Learning pipeline, I developed a Key Performance Indicator (KPI) from the data to support further optimization. 
